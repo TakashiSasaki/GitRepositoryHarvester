@@ -80,10 +80,10 @@ def main():
         if ".git" in dirs:
             found_git_repositories.append(root)
             directory_stack = directory_stack[1:]
-        if ".svn" in dirs:
+        elif ".svn" in dirs:
             found_svn_repositories.append(root)
             directory_stack = directory_stack[1:]
-        if ".bzr" in dirs:
+        elif ".bzr" in dirs:
             found_bzr_repositories.append(root)
             directory_stack = directory_stack[1:]
         else:
