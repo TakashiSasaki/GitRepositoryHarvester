@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="862e6cb4-9fe4-455a-beed-2721a64c20a1" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\sasaki\PycharmProjects\git-repository-crawler\globalState" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foundGitRepositories" afterPath="$PROJECT_DIR$/foundGitRepositories" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/globalState" afterPath="$PROJECT_DIR$/globalState" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello.py" afterPath="$PROJECT_DIR$/hello.py" />
     </list>
     <ignored path="untitled.iws" />
@@ -45,7 +45,7 @@
       <file leaf-file-name="hello.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="0.22185971">
+            <state line="112" column="0" selection-start="3765" selection-end="3765" vertical-scroll-proportion="0.6329527">
               <folding>
                 <element signature="e#25#34#0" expanded="true" />
               </folding>
@@ -548,7 +548,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hello.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="0.22185971">
+        <state line="112" column="0" selection-start="3765" selection-end="3765" vertical-scroll-proportion="0.6329527">
           <folding>
             <element signature="e#25#34#0" expanded="true" />
           </folding>

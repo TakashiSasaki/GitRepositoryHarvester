@@ -107,11 +107,9 @@ def printResult():
     for x in globalState["foundGitRepositories"]:
         f.write(x + "\n")
     f = open("foundBzrRepositories.txt", "w", encoding="utf_8")
-    global globalState
     for x in globalState["foundBzrRepositories"]:
         f.write(x + "\n")
     f = open("foundSvnRepositories.txt", "w", encoding="utf_8")
-    global globalState
     for x in globalState["foundSvnRepositories"]:
         f.write(x + "\n")
 
