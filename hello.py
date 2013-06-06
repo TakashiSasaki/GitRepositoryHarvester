@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import logging
+import logging, codecs
 import os, atexit, json
 
 __author__ = 'Takashi SASAKI'
@@ -20,7 +20,7 @@ def initGlobalState():
 
 def saveGlobalState():
     global globalState
-    f = open("globalState", "w")
+    f = open("globalState", "w", encoding="utf_8")
     json.dump(globalState, f, ensure_ascii=False)
     print("SAVE: " + json.dumps(globalState))
 
@@ -28,7 +28,7 @@ def saveGlobalState():
 def loadGlobalState():
     global globalState
     try:
-        f = open("globalState", "r")
+        f = open("globalState", "r", encoding="utf_8")
     except IOError as e:
         return
     globalState.update(json.load(f))
