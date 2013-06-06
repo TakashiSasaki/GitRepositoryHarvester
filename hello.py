@@ -42,6 +42,8 @@ def popDirectory(directory_path):
         new_directories = []
         for d in dirs:
             if d == "$Recycled.Bin": continue
+            if d == "android-sdk": continue
+            if d == "Package Cache": continue
             new_directories.append(os.path.join(directory_path, d))
         return directory_path, dirs, files, new_directories
     raise IOError("Can't get directories for %s" % directory_path)
@@ -69,6 +71,12 @@ def main():
             directory_stack = directory_stack[1:]
             continue
         if directory_stack[0] == "C:\\w32tex":
+            directory_stack = directory_stack[1:]
+            continue
+        if directory_stack[0] == "C:\\cygwin\\bin":
+            directory_stack = directory_stack[1:]
+            continue
+        if directory_stack[0] == "C:\\cygwin\\lib":
             directory_stack = directory_stack[1:]
             continue
 

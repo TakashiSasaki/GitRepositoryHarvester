@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="862e6cb4-9fe4-455a-beed-2721a64c20a1" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\sasaki\PycharmProjects\git-repository-crawler\globalState" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foundGitRepositories" afterPath="$PROJECT_DIR$/foundGitRepositories" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello.py" afterPath="$PROJECT_DIR$/hello.py" />
     </list>
@@ -17,7 +16,7 @@
     <file path="$USER_HOME$/DuplicateChecker/ExistenceMetadata.py" changelist="862e6cb4-9fe4-455a-beed-2721a64c20a1" time="1367495372215" ignored="false" />
     <file path="/ExistenceMetadata.py" changelist="862e6cb4-9fe4-455a-beed-2721a64c20a1" time="1367495035141" ignored="false" />
     <file path="/Dummy.txt" changelist="862e6cb4-9fe4-455a-beed-2721a64c20a1" time="1370500466188" ignored="false" />
-    <file path="/hello.py" changelist="862e6cb4-9fe4-455a-beed-2721a64c20a1" time="1370522850372" ignored="false" />
+    <file path="/hello.py" changelist="862e6cb4-9fe4-455a-beed-2721a64c20a1" time="1370523131025" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
       <file leaf-file-name="hello.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="0" selection-start="3765" selection-end="3765" vertical-scroll-proportion="0.6329527">
+            <state line="45" column="45" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.44535074">
               <folding>
                 <element signature="e#25#34#0" expanded="true" />
               </folding>
@@ -548,7 +547,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hello.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="0" selection-start="3765" selection-end="3765" vertical-scroll-proportion="0.6329527">
+        <state line="45" column="45" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.44535074">
           <folding>
             <element signature="e#25#34#0" expanded="true" />
           </folding>
