@@ -67,6 +67,9 @@ def main():
         if directory_stack[0] == "C:\\Program Files (x86)":
             directory_stack = directory_stack[1:]
             continue
+        if directory_stack[0] == "C:\\w32tex":
+            directory_stack = directory_stack[1:]
+            continue
 
         try:
             root, dirs, files, new_directories = popDirectory(directory_stack[0])
