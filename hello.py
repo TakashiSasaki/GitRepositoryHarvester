@@ -17,12 +17,14 @@ def initGlobalState():
 
 
 def saveGlobalState():
+    global globalState
     f = open("globalState", "w")
     json.dump(globalState, f)
     print("SAVE: " + json.dumps(globalState))
 
 
 def loadGlobalState():
+    global globalState
     try:
         f = open("globalState", "r")
     except IOError as e:
@@ -41,6 +43,7 @@ def popDirectory(directory_stack):
     raise IOError("Can't get directories for %s" % directory_stack[0])
 
 def main():
+    global globalState
     directory_stack = globalState["directoryStack"]
     found_git_repositories = globalState["foundGitRepositories"]
     n_visited_directories = globalState["nVisitedDirectories"]
@@ -68,10 +71,10 @@ def main():
 
 
 def printResult():
+    f = open("foundGitRepositories", "w")
     global globalState
     for x in globalState["foundGitRepositories"]:
-        print(x)
-
+        f.write(x + "\n")
 
 def aborted1():
     print("中断しちゃいましたよ")
