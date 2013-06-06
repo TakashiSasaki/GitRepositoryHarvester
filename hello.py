@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 
-import logging, codecs
-import os, atexit, json
+import os
+import atexit
+import json
 
 __author__ = 'Takashi SASAKI'
 globalState = None
@@ -101,9 +102,17 @@ def main():
 
 
 def printResult():
-    f = open("foundGitRepositories", "w")
+    f = open("foundGitRepositories.txt", "w", encoding="utf_8")
     global globalState
     for x in globalState["foundGitRepositories"]:
+        f.write(x + "\n")
+    f = open("foundBzrRepositories.txt", "w", encoding="utf_8")
+    global globalState
+    for x in globalState["foundBzrRepositories"]:
+        f.write(x + "\n")
+    f = open("foundSvnRepositories.txt", "w", encoding="utf_8")
+    global globalState
+    for x in globalState["foundSvnRepositories"]:
         f.write(x + "\n")
 
 
