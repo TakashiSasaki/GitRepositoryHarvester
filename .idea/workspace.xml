@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="862e6cb4-9fe4-455a-beed-2721a64c20a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/sasaki.xml" />
+      <change type="DELETED" beforePath="C:\Users\sasaki\PycharmProjects\git-repository-crawler\globalState" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello.py" afterPath="$PROJECT_DIR$/hello.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/untitled.iml" afterPath="$PROJECT_DIR$/.idea/untitled.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -19,7 +16,7 @@
     <file path="$USER_HOME$/DuplicateChecker/ExistenceMetadata.py" changelist="862e6cb4-9fe4-455a-beed-2721a64c20a1" time="1367495372215" ignored="false" />
     <file path="/ExistenceMetadata.py" changelist="862e6cb4-9fe4-455a-beed-2721a64c20a1" time="1367495035141" ignored="false" />
     <file path="/Dummy.txt" changelist="862e6cb4-9fe4-455a-beed-2721a64c20a1" time="1370500466188" ignored="false" />
-    <file path="/hello.py" changelist="862e6cb4-9fe4-455a-beed-2721a64c20a1" time="1370518938712" ignored="false" />
+    <file path="/hello.py" changelist="862e6cb4-9fe4-455a-beed-2721a64c20a1" time="1370520267088" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +44,7 @@
       <file leaf-file-name="hello.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="19" selection-start="1599" selection-end="1599" vertical-scroll-proportion="0.799687">
+            <state line="58" column="67" selection-start="1719" selection-end="1719" vertical-scroll-proportion="0.74491394">
               <folding>
                 <element signature="e#25#39#0" expanded="true" />
               </folding>
@@ -114,8 +111,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="612" />
-    <option name="y" value="110" />
+    <option name="x" value="927" />
+    <option name="y" value="87" />
     <option name="width" value="1568" />
     <option name="height" value="1209" />
   </component>
@@ -336,7 +333,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="612" y="110" width="1568" height="1209" extended-state="0" />
+    <frame x="927" y="87" width="1568" height="1209" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -347,7 +344,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39981186" sideWeight="0.6147757" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39981186" sideWeight="0.38522428" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37535277" sideWeight="0.6378628" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37535277" sideWeight="0.6378628" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -503,16 +500,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_execfile.py">
+    <entry file="file://C:/Python33/Lib/os.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.0">
+        <state line="403" column="0" selection-start="13966" selection-end="13966" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python33/Lib/os.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="403" column="0" selection-start="13966" selection-end="13966" vertical-scroll-proportion="0.0">
+        <state line="36" column="0" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -526,7 +523,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hello.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="19" selection-start="1599" selection-end="1599" vertical-scroll-proportion="0.799687">
+        <state line="58" column="67" selection-start="1719" selection-end="1719" vertical-scroll-proportion="0.74491394">
           <folding>
             <element signature="e#25#39#0" expanded="true" />
           </folding>

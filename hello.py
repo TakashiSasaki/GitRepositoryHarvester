@@ -30,14 +30,15 @@ def loadGlobalState():
     globalState = json.load(f)
     print("LOAD: " + json.dumps(globalState))
 
-
 def popDirectory(directory_stack):
     # print(directory_stack)
     for root, dirs, files in os.walk(directory_stack[0]):
-        new_directories = [os.path.join(directory_stack[0], x) for x in dirs]
-        return directory_stack[0], dirs, files, new_directories + directory_stack[1:]
+        new_directories = []
+        for d in dirs:
+            if d == "$Recycled.Bin": continue
+            new_directories.append(os.path.join(directory_stack[0], d))
+        return directory_stack[0], dirs, files, new_directories
     raise IOError("Can't get directories for %s" % directory_stack[0])
-
 
 def main():
     directory_stack = globalState["directoryStack"]
@@ -46,14 +47,16 @@ def main():
     count = 0
     while len(directory_stack) > 0:
         try:
-            root, dirs, files, directory_stack = popDirectory(directory_stack)
+            root, dirs, files, new_directories = popDirectory(directory_stack)
         except IOError as e:
             directory_stack = directory_stack[1:]
             continue
         n_visited_directories += 1
-        for d in dirs:
-            if d == ".git":
-                found_git_repositories.append(root + os.sep + d)
+        if ".git" in dirs:
+            found_git_repositories.append(root)
+            directory_stack = directory_stack[1:]
+        else:
+            directory_stack = new_directories + directory_stack[1:]
         count += 1
         if count >= 5000:
             count = 0
