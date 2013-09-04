@@ -1,0 +1,50 @@
+C:\ProgramData\Titanium\mobilesdk\win32\1.8.0.1\common\css
+C:\Users\All Users\Titanium\mobilesdk\win32\1.8.0.1\common\css
+C:\Users\sasaki\Documents\Dドライブ\#moodle\moodle-1.8.4+.svn
+C:\Users\sasaki\Documents\Dドライブ\#moodle\moodle-cite.svn
+C:\Users\sasaki\Documents\Dドライブ\#moodle\moodle-db.svn
+C:\Users\sasaki\Documents\Dドライブ\#moodle\moodle-web.svn
+C:\Users\sasaki\Documents\Dドライブ\#moodle\愛媛大学Moodle.svn
+C:\Users\sasaki\Documents\Dドライブ\+web user behavior\Moodleに関する研究
+C:\Users\sasaki\Documents\Dドライブ\未分類\-web user behavior\OFS
+C:\Users\sasaki\Documents\Dドライブ\未分類\-web user behavior\svn-from-tezukayama3\svn\upstream\feedvalidator
+C:\Users\sasaki\Documents\Dドライブ\未分類\-web user behavior\svn-wc\libtsasaki
+C:\Users\sasaki\Documents\Dドライブ\未分類\@research\Firefly
+C:\Users\sasaki\Documents\Dドライブ\未分類\@research\fp07-006
+C:\Users\sasaki\Documents\Dドライブ\未分類\@research\Processor Sharing with Preprocessor
+C:\Users\sasaki\Documents\Dドライブ\未分類\bibliography.svn
+C:\Users\sasaki\Documents\Dドライブ\未分類\ciphersaber.svn
+C:\Users\sasaki\Documents\Dドライブ\未分類\cygwin-usr-local-bin-trunk.svn
+C:\Users\sasaki\Documents\Dドライブ\未分類\EUnet.svn
+C:\Users\sasaki\Documents\Dドライブ\未分類\Group Synchronization of Oscillators
+C:\Users\sasaki\Documents\Dドライブ\未分類\IPS.svn
+C:\Users\sasaki\Documents\Dドライブ\未分類\LMS-Research
+C:\Users\sasaki\Documents\Dドライブ\未分類\LogFiles.svn
+C:\Users\sasaki\Documents\Dドライブ\未分類\Metadata related works\AtomSchema
+C:\Users\sasaki\Documents\Dドライブ\未分類\Metadata related works\Metadata
+C:\Users\sasaki\Documents\Dドライブ\未分類\P2P realted works\SmallWorldPaper
+C:\Users\sasaki\Documents\Dドライブ\未分類\PIM考察
+C:\Users\sasaki\Documents\Dドライブ\未分類\Portable
+C:\Users\sasaki\Documents\Dドライブ\未分類\Programming\boost-trunk
+C:\Users\sasaki\Documents\Dドライブ\未分類\Programming\Code
+C:\Users\sasaki\Documents\Dドライブ\未分類\Programming\expat
+C:\Users\sasaki\Documents\Dドライブ\未分類\Programming\gc-7.0
+C:\Users\sasaki\Documents\Dドライブ\未分類\Programming\GoogleDesktopSearch
+C:\Users\sasaki\Documents\Dドライブ\未分類\Programming\Graphviz
+C:\Users\sasaki\Documents\Dドライブ\未分類\Programming\ICU4C
+C:\Users\sasaki\Documents\Dドライブ\未分類\Programming\LibYapons
+C:\Users\sasaki\Documents\Dドライブ\未分類\Programming\mkqrimg
+C:\Users\sasaki\Documents\Dドライブ\未分類\Programming\neon
+C:\Users\sasaki\Documents\Dドライブ\未分類\Programming\OpenSSL
+C:\Users\sasaki\Documents\Dドライブ\未分類\Programming\poco
+C:\Users\sasaki\Documents\Dドライブ\未分類\Programming\Vendor
+C:\Users\sasaki\Documents\Dドライブ\未分類\Research
+C:\Users\sasaki\Documents\Dドライブ\未分類\root
+C:\Users\sasaki\Documents\Dドライブ\未分類\Scrapbook
+C:\Users\sasaki\Documents\Dドライブ\未分類\Showcase
+C:\Users\sasaki\Documents\Dドライブ\未分類\storages
+C:\Users\sasaki\Documents\Dドライブ\未分類\tools
+C:\Users\sasaki\Documents\Dドライブ\未分類\tsasaki99@yahoo.co.jp
+C:\Users\sasaki\Documents\Dドライブ\未分類\サーバ管理\Config
+C:\Users\sasaki\Documents\Dドライブ\未分類\情報システム管理\Open Source
+C:\Users\sasaki\Documents\Dドライブ\未分類\教育学.svn

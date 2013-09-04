@@ -1,0 +1,75 @@
+C:\android-ndk-r7b
+C:\Users\sasaki\Desktop\Billable\IS119原稿\ipsj-is-201203
+C:\Users\sasaki\Desktop\Billable\SCOPE 3月21日提出作業
+C:\Users\sasaki\Desktop\Billable\みんなでお電気\odenki
+C:\Users\sasaki\Desktop\Billable\みんなでお電気\TeiregiFetcher
+C:\Users\sasaki\Desktop\Billable\みんなでお電気\YRP SRS IFMS API
+C:\Users\sasaki\Desktop\Billable\アウトプット
+C:\Users\sasaki\Desktop\Billable\アーカイブ
+C:\Users\sasaki\Desktop\Billable\インプット\First Fourier Transform
+C:\Users\sasaki\Desktop\Billable\インプット\IEEE Shikoku Section\IEEE 2011 R10 Meet\Expense Report
+C:\Users\sasaki\Desktop\Billable\インプット\IEEE Shikoku Section\IEEE Shikoku Section 2011年間報告対策会議
+C:\Users\sasaki\Desktop\Billable\インプット\IEEE Shikoku Section\IEEE Shikoku Section Archive\IEEE R10 2011 Meet Expense Report
+C:\Users\sasaki\Desktop\Billable\サポイン
+C:\Users\sasaki\Desktop\Billable\情報科学 2012 評定
+C:\Users\sasaki\Desktop\Billable\情報科学2012年度模擬試験分析\item-analysis
+C:\Users\sasaki\Desktop\cite-nenpou-2013
+C:\Users\sasaki\Desktop\Community\WRO2012
+C:\Users\sasaki\Desktop\EasyGuide\EasyGuide
+C:\Users\sasaki\Desktop\EasyGuide\EasyGuide-201112\EasyGuide-Lib
+C:\Users\sasaki\Desktop\EasyGuide\EasyGuide-201112\EasyGuide-Player
+C:\Users\sasaki\Desktop\EasyGuide\EasyGuide-201112\ImageViewSandbox
+C:\Users\sasaki\Desktop\EasyGuide\EasyGuide-201112-2\EasyGuide-Downloader
+C:\Users\sasaki\Desktop\EasyGuide\EasyGuide-201112-2\EasyGuide-Lib
+C:\Users\sasaki\Desktop\EasyGuide\EasyGuide-201112-2\EasyGuide-Player
+C:\Users\sasaki\Desktop\EasyGuide\EasyGuide-201112-2\ImageViewSandbox
+C:\Users\sasaki\Desktop\EasyGuide\EasyGuide-contents
+C:\Users\sasaki\Desktop\EasyGuide\EasyGuide-www.yonden.co.jp
+C:\Users\sasaki\Desktop\IS123-ninomiya2013
+C:\Users\sasaki\Desktop\joho-kiban-ng
+C:\Users\sasaki\Desktop\matsushige
+C:\Users\sasaki\Desktop\my-RTADKminiDemo
+C:\Users\sasaki\Documents\Dドライブ\Desktop\Google App Engine Datastore Separation
+C:\Users\sasaki\Documents\Dドライブ\Desktop\SCOPE研究計画
+C:\Users\sasaki\Documents\Dドライブ\Desktop\urlefix\urlefix
+C:\Users\sasaki\Documents\Dドライブ\Desktop\バックアップ\IS01 backup
+C:\Users\sasaki\Documents\Dドライブ\Desktop\会議資料\総合情報メディアセンター第2部会\CITE-WG2-VPN
+C:\Users\sasaki\Documents\Dドライブ\Desktop\四国電力パンフレット画像
+C:\Users\sasaki\Documents\Dドライブ\Desktop\情報科学\2011年度情報科学成績
+C:\Users\sasaki\Documents\Eclipse Workspace\InverseFizzBuzz
+C:\Users\sasaki\Documents\Eclipse Workspace\MyCrawler
+C:\Users\sasaki\Documents\GitHub\android-lib
+C:\Users\sasaki\Documents\GitHub\HelloAndroid
+C:\Users\sasaki\Documents\GitHub\HelloAndroidTest
+C:\Users\sasaki\Documents\GitHub\java-lib
+C:\Users\sasaki\Documents\GitHub\matsushige-nfc
+C:\Users\sasaki\Documents\GitHub\matsushige-nfc-test
+C:\Users\sasaki\Documents\GitHub\MyCrawler
+C:\Users\sasaki\Documents\GitHub\obomb
+C:\Users\sasaki\Documents\GitHub\obomb.wiki
+C:\Users\sasaki\Documents\GitHub\odenkiapi
+C:\Users\sasaki\Documents\GitHub\TeiregiFetcher
+C:\Users\sasaki\Documents\Titanium Studio Workspace\Hello Titanium Studio with Python
+C:\Users\sasaki\Documents\Titanium Studio Workspace\Kitchen Sink iPad
+C:\Users\sasaki\Documents\携帯電話のバックアップ\ISW12HT-20130114
+C:\Users\sasaki\Dropbox\git\IS123-ninomiya2013
+C:\Users\sasaki\Dropbox\git\matsushige
+C:\Users\sasaki\Dropbox\メディアセンター2012年年報
+C:\Users\sasaki\Dropbox\総合情報メディアセンター年報原稿2012年5月
+C:\Users\sasaki\Google Drive\01 Billable\@みんなでおでんき\#契約\研究者経歴説明書
+C:\Users\sasaki\Google Drive\EasyGuide\EasyGuide
+C:\Users\sasaki\Google Drive\EasyGuide\EasyGuide-201112\EasyGuide-Lib
+C:\Users\sasaki\Google Drive\EasyGuide\EasyGuide-201112\EasyGuide-Player
+C:\Users\sasaki\Google Drive\EasyGuide\EasyGuide-201112\ImageViewSandbox
+C:\Users\sasaki\Google Drive\EasyGuide\EasyGuide-201112-2\EasyGuide-Downloader
+C:\Users\sasaki\Google Drive\EasyGuide\EasyGuide-201112-2\EasyGuide-Lib
+C:\Users\sasaki\Google Drive\EasyGuide\EasyGuide-201112-2\EasyGuide-Player
+C:\Users\sasaki\Google Drive\EasyGuide\EasyGuide-201112-2\ImageViewSandbox
+C:\Users\sasaki\Google Drive\EasyGuide\EasyGuide-contents
+C:\Users\sasaki\Google Drive\EasyGuide\EasyGuide-www.yonden.co.jp
+C:\Users\sasaki\IdeaProjects\hello-scala
+C:\Users\sasaki\PycharmProjects\git-repository-crawler
+C:\Users\sasaki\PycharmProjects\GitPython
+C:\Users\sasaki\SkyDrive\愛媛大学\SCOPE2012Report
+C:\Users\sasaki\tmp\test
+C:\Users\sasaki\workspace\furiwake
